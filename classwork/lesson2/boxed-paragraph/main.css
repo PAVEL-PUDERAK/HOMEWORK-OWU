@@ -1,0 +1,16 @@
+.box{
+    width: 450px;
+    height: 250px;
+    background: #818181;
+    box-sizing: border-box;
+    margin-top: 250px;
+    margin-left: 20px;
+    box-shadow: #d7bb97 -20px -30px 30px 25px;
+
+}
+.text{
+    width: 400px;
+    font-size: 22px;
+    border-left: 7px solid #ff0000;
+    padding-left: 30px;
+}
