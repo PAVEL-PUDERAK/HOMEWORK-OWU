@@ -1,0 +1,66 @@
+body{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 15px;
+
+}
+.w{
+    width: 600px;
+    height: 200px;
+    box-sizing: border-box;
+    color: white;
+    background: #2269ba;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 90px;
+    margin-bottom: 10px;
+}
+.w1{
+    width: 190px;
+    height: 200px;
+    background: #16457a;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top:  90px;
+}
+.w2{
+    width: 190px;
+    height: 200px;
+    background: #16457a;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top:  90px;
+
+}
+.w3{
+    width: 190px;
+    height: 200px;
+    background: #16457a;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top:  90px;
+
+
+}
+.contact{
+    width: 600px;
+    height: 400px;
+    background: #2269ba;
+    margin-top: 10px;
+    box-sizing: border-box;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 180px;
+
+}
