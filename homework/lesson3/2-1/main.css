@@ -1,4 +1,7 @@
-
+body{
+    margin-left: 700px;
+    margin-top: 100px;
+}
 #container{
     display: flex;
     width: 500px;
