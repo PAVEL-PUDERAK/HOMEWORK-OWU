@@ -41,7 +41,6 @@ body{
     box-sizing: border-box;
     background: #9fe2ff;
     text-align: center;
-    justify-content: center;
     border: solid black 2px;
     margin-bottom: 10px;
     padding-top: 90px;
@@ -53,7 +52,6 @@ body{
     box-sizing: border-box;
     background: #9fe2ff;
     text-align: center;
-    justify-content: center;
     border: solid black 2px;
     padding-top: 90px;
     font-size: 30px;
