@@ -1,0 +1,43 @@
+body{
+    background: #06bbd3;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+h3{
+    color: #ff9c33;
+}
+.w-h{
+    height: 200px;
+    width: 350px;
+
+
+}
+.col{
+    background: white;
+
+}
+.br-bs{
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.display{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+    height: 620px;
+    width: 350px;
+
+
+}
+.disp-flex{
+    display: flex;
+    align-items: center;
+}
+.padd{
+    padding: 10px;
+}
+
+

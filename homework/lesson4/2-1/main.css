@@ -1,0 +1,57 @@
+body{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+
+
+.box-post{
+    background: #9fe2ff;
+    font-size:  25px;
+    width: 385px;
+    height: 195px;
+    padding-top: 90px;
+
+
+}
+.menu{
+    background: #ffb7ff;
+    font-size: 18px;
+    padding-top: 200px;
+    width: 100px;
+    height: 400px;
+
+
+}
+.sol-box-s{
+    box-sizing: border-box;
+    text-align: center;
+    border: solid black 2px;
+    justify-content: center;
+}
+.head-foot{
+    width: 495px;
+    height: 50px;
+    background: #e5f6af;
+    padding-top: 15px;
+}
+.mar-top{
+    margin-top: 10px;
+}
+.mar-bot{
+    margin-bottom: 10px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+}
+.flex{
+    display: flex;
+    row-gap: 10px;
+    flex-direction: column;
+}
+
+
+
+
+
