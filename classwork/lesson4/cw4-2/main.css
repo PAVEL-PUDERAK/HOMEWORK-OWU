@@ -1,0 +1,277 @@
+body{
+    margin: 0;
+}
+.bg-col-silver{
+    background: #cdd9df;
+    box-sizing: border-box;
+
+}
+.bg-col-black{
+    background:#102b3e;
+    box-sizing: border-box;
+}
+.br-radius50{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.br-radius60px {
+    border-radius: 60px;
+
+}
+.br-radius20px{
+    border-radius: 20px;
+}
+.bg-size{
+    width: 1920px;
+    height: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.bg-head{
+    height: 100px;
+    width: 1920px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+h3{
+    margin-top: 0;
+    color: white;
+}
+.main-box{
+    width: 1700px;
+    height: 480px;
+    border: solid 3px #3bc6ea;
+    margin-top: -20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.content-on-silver-first{
+    height: 20px;
+    width: 150px;
+    border-radius: 30px;
+
+}
+.content-on-silver-second{
+    height: 20px;
+    width: 70px;
+    border-radius: 30px;
+}
+.for-content{
+    display: flex;
+    column-gap: 20px;
+}
+.box{
+    height: 250px;
+    width: 250px;
+    box-sizing: border-box;
+
+}
+.for-box{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.for-box-content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+
+
+
+}
+.box-for-circle{
+    height: 500px;
+    width: 400px;
+    border: solid 2px #3bc6ea;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-on-silver-third {
+    height: 20px;
+    width: 93px;
+    border-radius: 30px;
+}
+.for-content-on-black{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.bg-col-blue{
+    background: #3ac6ea;
+}
+.for-head{
+    display: flex;
+    column-gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+
+
+
+}
+.margin-right{
+    margin-right: 100px;
+}
+.bottom-head {
+    height: 200px;
+    width: 1920px;
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+
+}
+.button{
+    height: 100px;
+    width: 250px;
+    box-sizing: border-box;
+    margin-left: 200px;
+
+}
+.content-on-blue-first{
+    width: 200px;
+    height: 30px;
+}
+.content-on-blue-second{
+    width: 100px;
+    height: 10px;
+}
+.column-gap{
+    column-gap:30px;
+}
+.row-gap{
+    row-gap: 10px;
+}
+.flex-direction{
+flex-direction: column;
+}
+.row-gap30px{
+    row-gap: 30px;
+}
+.button2{
+    height: 70px;
+    width: 250px;
+    box-sizing: border-box;
+    margin-top: 50px;
+
+}
+
+.silver-box-size{
+    width: 1920px;
+    height: 1800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.black-box-for-window{
+    height: 200px;
+    width: 376px;
+
+
+}
+.box-for-window {
+    height: 500px;
+    width: 400px;
+    border: solid 5px #3bc6ea;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.column-gap-for-content{
+    column-gap: 150px;
+}
+.content-on-blue-third{
+    width: 50px;
+    height: 10px;
+}
+.blue-small-window{
+    width: 396px;
+    height: 60px;
+    border: solid 4px #3bc6ea;
+    box-sizing: border-box;
+    position: relative;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px;
+    top:30px;
+    left:-8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.padding-for-content-and-window{
+    padding: 5px;
+}
+.mini-button{
+    width: 85px;
+    height: 40px;
+
+}
+.circle{
+    height: 20px;
+    width: 20px;
+}
+.box-for-silver-bg{
+    height: 450px;
+    width: 625px;
+}
+.mar-top{
+    margin-top: 100px;
+}
+.for-box2{
+    display: flex;
+
+}
+.content-on-box-blue-and-black-first{
+    height: 30px;
+    width: 150px;
+}
+.content-on-box-blue-and-black-second{
+    height: 30px;
+    width: 200px;
+
+}
+.for-box-content2{
+    align-items: flex-start;
+}
+.bg-foot {
+    height: 200px;
+    width: 1920px;
+    text-align: center;
+    box-sizing: border-box;
+    justify-content: center;
+    background:#102b3e ;
+}
+.small-box{
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    background: #cdd7dc;
+}
+.border-bottom{
+    border-bottom: solid 3px #3ac6ea;
+    width: 500px;
+    height: 100px;
+
+}
