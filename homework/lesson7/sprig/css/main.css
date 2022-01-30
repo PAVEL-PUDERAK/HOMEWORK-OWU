@@ -243,3 +243,16 @@
     justify-content: center;
     margin-bottom: 176px;
 }
+.top_bar{
+    display: flex;
+    align-items: baseline;
+}
+.mobile_top_bar{
+    display: none;
+}
+.burger{
+    display: none;
+}
+.topnav{
+    display: none;
+}
